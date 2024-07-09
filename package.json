@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "cd e-comm-website && npm run start"
+  }
+}
